@@ -70,6 +70,7 @@
 2. **開啟 GitHub Pages**：
    - 到 **Settings > Pages**。
    - 在 **Build and deployment > Branch** 選擇 `gh-pages` 分支。
+   - 這裡讀Branch是選擇分支的意思，gh-pages是github pages的分支
    - 儲存後，GitHub 會提供你的遊戲網址。
 
 ---
